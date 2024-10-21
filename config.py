@@ -1,6 +1,6 @@
 import os
 
-API_TOKEN = '7597400226:AAHMX7MHOTEoHrgTfmeFodZRFeZL__QfN8o'
+API_TOKEN = ''
 ADMIN_ID = 1145275050  
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
